@@ -248,10 +248,18 @@ a{
     .footer-heading{
         margin-bottom: 30px !important;
     }
+      .nav-btn{
+        margin-left: 0;
+    }
+    .nav-link{
+        margin-left: 0;
+        margin-bottom: 15px;
+    }
 }
 @media(max-width:576px){
     header{
         padding-bottom: 30px;
+        padding-top: 15px;
     }
     .s3 img{
         display: block;
